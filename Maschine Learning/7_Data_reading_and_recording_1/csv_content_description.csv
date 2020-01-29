@@ -1,0 +1,21 @@
+movie_id,tag,value
+0,content_id,1181251680
+0,genre,drama
+0,title,The Shawshank Redemption
+0,iid,040000008200E000
+0,releaseTime,1181572063
+0,state,
+0,location,
+0,duration,8520
+0,descr,"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+1,content_id,1234360800
+1,title,The Dark Knight
+1,genre,drama
+1,duration,9120
+1,descr,The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+1,location,
+1,iid,604f4792-eb89-478b-a14f-dd34d3cc6c21-1234360800
+1,state,dismissed
+2,title,"""Back 2 the Future"""
+2,year,1985
+2,descr,Marty McFly
